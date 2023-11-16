@@ -42,9 +42,6 @@ Publications
 ·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review* https://dx.doi.org/10.2139/ssrn.4493250
 **Read the manuscript**: [scBC](../files/scBC.pdf)
 
-#·	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. Rethinking the BERT-like pretraining for DNA sequences. *ICLR 2023 Under Review*
-#**Read the manuscript**: [RandomMask](../files/RandomMask.pdf)
-
 
 Educations
 ======
