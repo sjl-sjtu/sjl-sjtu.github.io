@@ -41,6 +41,7 @@ Publications
 **Read the paper**: [GESLM](../files/GESLM.pdf)
 
 ·	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12.
+
 **Read the paper**: [ECAR](../files/ECAR.pdf)
 
 ·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review*
