@@ -24,7 +24,7 @@ Reseach interests
 
 Publications
 ======
-·	**Sun, J.**, Lyu, R., Deng, L., Li, Q., Zhao, Y., & Zhang, Y. (2022). SMetABF: A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included. *PLOS Computational Biology*, 18(3), e1009948. https://doi.org/10.1371/journal.pcbi.1009948 
+·	**Sun, J.**, Lyu, R., Deng, L., Li, Q., Zhao, Y., & Zhang, Y. (2022). SMetABF: A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included. *PLOS Computational Biology*, 18(3), e1009948.
 
 **Read the paper**: [SMetABF](../files/SMetABF.pdf)
 
@@ -36,15 +36,14 @@ Publications
 
 **Read the manuscript**: [CLHLS](../files/CLHLS.pdf)
 
-·	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. Briefings in Bioinformatics, 22(6), bbab276. https://doi.org/10.1093/bib/bbab276 
+·	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. Briefings in Bioinformatics, 22(6), bbab276.
 
 **Read the paper**: [GESLM](../files/GESLM.pdf)
 
-·	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12. https://doi.org/10.1038/s41598-021-02706-0 
-
+·	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12.
 **Read the paper**: [ECAR](../files/ECAR.pdf)
 
-·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review* https://dx.doi.org/10.2139/ssrn.4493250
+·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review*
 
 **Read the manuscript**: [scBC](../files/scBC.pdf)
 
