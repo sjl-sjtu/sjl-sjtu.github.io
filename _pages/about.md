@@ -10,7 +10,7 @@ redirect_from:
 
 I am **Jianle Sun**, currently pursuing his M.S. in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. Before this, I received his B.S. in Biotechnology in 2021 from Shanghai Jiao Tong University. 
 
-***I am looking for a Ph.D. position in Computational biology or Biostatistics.*** You can find my CV here: [JianleSun's CV](../files/CV_JianleSun.pdf)
+***I am looking for a Ph.D. position in Computational Biology, Statistical Genetics or Biostatistics.*** You can find my CV here: [JianleSun's CV](../files/CV_JianleSun.pdf)
 
 Reseach interests
 ======
