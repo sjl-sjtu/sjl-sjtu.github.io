@@ -40,7 +40,7 @@ Publications
 **Read the manuscript**: [scBC](../files/scBC.pdf)
 
 
-Educations
+Education
 ======
 ·	Sep. 2021 - Jun. 2024 (expected): M.S. in Bioinformatics & Biostatistics, Shanghai Jiao Tong University (GPA: 3.83/4.0).
 
