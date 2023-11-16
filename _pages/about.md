@@ -10,7 +10,7 @@ redirect_from:
 
 Jianle Sun received his B.S. in Biotechnology in 2021 from Shanghai Jiao Tong University. He is currently pursuing his M.S. in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. His researching field is statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis.
 
-***I am looking for Ph.D. position in Computational biology or Biostatistics.*** You can find my CV here: [JianleSun's CV](../files/CV_JianleSun.pdf)
+***I am looking for a Ph.D. position in Computational biology or Biostatistics.*** You can find my CV here: [JianleSun's CV](../files/CV_JianleSun.pdf)
 
 Reseach interests
 ======
