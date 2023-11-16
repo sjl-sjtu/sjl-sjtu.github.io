@@ -10,16 +10,13 @@ redirect_from:
 
 I am **Jianle Sun (孙健乐)**, currently pursuing his M.S. in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. Before this, I received his B.S. in Biotechnology in 2021 from Shanghai Jiao Tong University. 
 
-***I am looking for a Ph.D. position in Computational Biology, Statistical Genetics or Biostatistics.*** You can find my CV here: [JianleSun's CV](../files/CV_JianleSun.pdf)
+***I am looking for a Ph.D. position in Computational Biology, Biostatistics, or Statistical Genetics.*** You can find my CV here: [JianleSun's CV](../files/CV_JianleSun.pdf)
 
 Reseach interests
 ======
-·	Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits
-
-·	Causal inference & causal discovery in multi-omics data (e.g., Mendelian randomization, causal representation learning for scRNA data)
-
-·	Computational & statistical methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis of risk variants identified by GWAS
-
+·	Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits <br>
+·	Causal inference & causal discovery in multi-omics data (e.g., Mendelian randomization, causal representation learning for scRNA data) <br>
+·	Computational & statistical methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis of risk variants identified by GWAS <br>
 ·	Temporal & spatial models in statistical genetics and genetic epidemiology
 
 Publications
