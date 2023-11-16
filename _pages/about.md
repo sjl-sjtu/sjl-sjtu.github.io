@@ -42,7 +42,7 @@ Publications
 
 Educations
 ======
-·	Sep. 2021 - Jun. 2024 (expected): M.S. in Bioinformatics & Biostatistics, Shanghai Jiao Tong University.
+·	Sep. 2021 - Jun. 2024 (expected): M.S. in Bioinformatics & Biostatistics, Shanghai Jiao Tong University (GPA: 3.83/4.0).
 
 ·	Sep. 2017 - Jun. 2021: B.S. in Biotechnology, Shanghai Jiao Tong University (GPA: 3.94/4.3, rank 1/25).
 
