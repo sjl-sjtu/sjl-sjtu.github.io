@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jianle Sun"
+title: "Jianle Sun's webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
