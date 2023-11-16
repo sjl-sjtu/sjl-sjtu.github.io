@@ -42,8 +42,8 @@ Publications
 ·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review* https://dx.doi.org/10.2139/ssrn.4493250
 **Read the manuscript**: [scBC](../files/scBC.pdf)
 
-·	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. Rethinking the BERT-like pretraining for DNA sequences. *ICLR 2023 Under Review*
-**Read the manuscript**: [RandomMask](../files/RandomMask.pdf)
+#·	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. Rethinking the BERT-like pretraining for DNA sequences. *ICLR 2023 Under Review*
+#**Read the manuscript**: [RandomMask](../files/RandomMask.pdf)
 
 
 Educations
@@ -55,9 +55,13 @@ Educations
 
 Internships
 ======
-·	Jul. 2023 - Oct. 2023: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory: Developing pretrained BERT-based DNA large language model, and conducting multi-omic downstream tasks, including identifying genomic functional elements (promoters, enhancers, etc.), predicting epigenomic & expressive features, and assessing the effects of variants.
+·	Jul. 2023 - Oct. 2023: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory
 
-·	Aug. 2022 - Jan. 2023: Biodata Analyst at Baiyi Health: Establishing biomarker-based biological age models for eight systems/organs, and establishing classification model for thyroid disorders, and participating in the trial design and data analysis for the performance of Eye Parameter Evaluator
+*Developing pretrained BERT-based DNA large language model, and conducting multi-omic downstream tasks, including identifying genomic functional elements (promoters, enhancers, etc.), predicting epigenomic & expressive features, and assessing the effects of variants.*
+
+·	Aug. 2022 - Jan. 2023: Biodata Analyst at Baiyi Health
+
+*Establishing biomarker-based biological age models for eight systems/organs, and establishing classification model for thyroid disorders, and participating in the trial design and data analysis for the performance of Eye Parameter Evaluator*
 
 
 Honors
