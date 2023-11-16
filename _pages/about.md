@@ -24,28 +24,22 @@ Reseach interests
 
 Publications
 ======
-·	**Sun, J.**, Lyu, R., Deng, L., Li, Q., Zhao, Y., & Zhang, Y. (2022). SMetABF: A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included. *PLOS Computational Biology*, 18(3), e1009948.
-
+·	**Sun, J.**, Lyu, R., Deng, L., Li, Q., Zhao, Y., & Zhang, Y. (2022). SMetABF: A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included. *PLOS Computational Biology*, 18(3), e1009948. <br>
 **Read the paper**: [SMetABF](../files/SMetABF.pdf)
 
-·	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Under Review*
-
+·	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Under Review* <br>
 **Read the manuscript**: [BNMR](../files/BNMR.pdf)
 
-·	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review*
-
+·	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
 **Read the manuscript**: [CLHLS](../files/CLHLS.pdf)
 
-·	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. Briefings in Bioinformatics, 22(6), bbab276.
-
+·	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. Briefings in Bioinformatics, 22(6), bbab276. <br>
 **Read the paper**: [GESLM](../files/GESLM.pdf)
 
-·	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12.
-
+·	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12. <br>
 **Read the paper**: [ECAR](../files/ECAR.pdf)
 
-·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review*
-
+·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review* <br>
 **Read the manuscript**: [scBC](../files/scBC.pdf)
 
 
@@ -58,25 +52,18 @@ Educations
 
 Internships
 ======
-·	Jul. 2023 - Oct. 2023: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory
-
+·	Jul. 2023 - Oct. 2023: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory <br>
 *Developing pretrained BERT-based DNA large language model, and conducting multi-omic downstream tasks, including identifying genomic functional elements (promoters, enhancers, etc.), predicting epigenomic & expressive features, and assessing the effects of variants.*
 
-·	Aug. 2022 - Jan. 2023: Biodata Analyst at Baiyi Health
-
+·	Aug. 2022 - Jan. 2023: Biodata Analyst at Baiyi Health <br>
 *Establishing biomarker-based biological age models for eight systems/organs, and establishing classification model for thyroid disorders, and participating in the trial design and data analysis for the performance of Eye Parameter Evaluator*
 
 
 Honors
 ======
-·	Graduation with honor: College Graduate Excellence Award of Shanghai, 2021 (5%)
-
-·	National Encouragement Scholarship
-
-·	Fan Hsu-chi Scholarship
-
-·	Tang You Shuqi Named Scholarship
-
-·	Sino Biological Named Scholarship
-
+·	Graduation with honor: College Graduate Excellence Award of Shanghai, 2021 (5%) <br>
+·	National Encouragement Scholarship <br>
+·	Fan Hsu-chi Scholarship <br>
+·	Tang You Shuqi Named Scholarship <br>
+·	Sino Biological Named Scholarship <br>
 ·	Gold award and nominated for best new application project in the International Genetically Engineered Machine (iGEM) Competition, 2019
