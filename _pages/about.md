@@ -8,36 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianle Sun (孙健乐)**, currently pursuing my M.S. (research-based) degree in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. Before this, I received my B.S. degree in Biotechnology in 2021 from Shanghai Jiao Tong University. 
+I am **Jianle Sun (孙健乐)**, currently pursuing my M.S. (research-based) degree in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. I have also collaborated on epidemiological cohort studies and research utilizing deep learning and large language models (LLM) to interpret the epigenomic and transcriptomic functions of DNA sequences. Before this, I received my B.S. degree in Biotechnology in 2021 from Shanghai Jiao Tong University. 
 
 ***I am looking for a Ph.D. position in Computational Biology, Biostatistics, or Statistical Genetics.*** You can find my resume here: [JianleSun's CV](../files/CV_JianleSun.pdf)
 
 Reseach interests
 ======
 ·	Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits <br>
-·	Causal inference & causal discovery in multi-omics data (e.g., Mendelian randomization, causal representation learning for scRNA data) <br>
-·	Computational & statistical methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis of risk variants identified by GWAS <br>
-·	Temporal & spatial models in statistical genetics and genetic epidemiology
+·	Causal inference & causal discovery in multi-omics data (e.g., Mendelian randomization, causal representation learning for single-cell omics) <br>
+·	Computational & statistical methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis on risk variants identified by GWAS <br>
+·	Temporal & spatial models in genetics and epidemiology
 
 Publications
 ======
 ·	**Sun, J.**, Lyu, R., Deng, L., Li, Q., Zhao, Y., & Zhang, Y. (2022). SMetABF: A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included. *PLOS Computational Biology*, 18(3), e1009948. <br>
-**Read the paper**: [SMetABF](../files/SMetABF.pdf)
+**Read the paper**: [SMetABF](../files/SMetABF.pdf) <br>
+**R package**: <https://github.com/sjl-sjtu/GWAS_meta>
+**Online tool**: <https://sunjianle-sjtu.shinyapps.io/analycode/>
 
 ·	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Under Review* <br>
 **Read the manuscript**: [BNMR](../files/BNMR.pdf)
+**R package**: <https://github.com/sjl-sjtu/bnmr>
 
 ·	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
 **Read the manuscript**: [CLHLS](../files/CLHLS.pdf)
+**Analysis code**: <https://github.com/sjl-sjtu/CLHLS>
 
 ·	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. *Briefings in Bioinformatics*, 22(6), bbab276. <br>
 **Read the paper**: [GESLM](../files/GESLM.pdf)
+**R package**: <https://github.com/sjl-sjtu/GESLM>
 
 ·	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12. <br>
 **Read the paper**: [ECAR](../files/ECAR.pdf)
 
 ·	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review* <br>
 **Read the manuscript**: [scBC](../files/scBC.pdf)
+**Python package**: <https://github.com/sjl-sjtu/scBC>
 
 
 Education
