@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianle Sun's Webpage"
+title                    : "Jianle Sun's Homepage"
 title_separator          : "-"
 name                     : &name "Jianle Sun"
 description              : &description "personal description"
