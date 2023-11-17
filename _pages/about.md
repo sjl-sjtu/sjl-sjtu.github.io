@@ -70,3 +70,21 @@ Honors
 ·	Tang You Shuqi Named Scholarship <br>
 ·	Sino Biological Named Scholarship <br>
 ·	Gold award and nominated for best new application project in the International Genetically Engineered Machine (iGEM) Competition, 2019
+
+
+Talks
+======
+·	Causal inference and causal learning:  Introductory talk for students from various STEM backgrounds <br>
+**slides**: [Causality](../files/causality.pdf)
+
+·	Molecular QTL: Introductory talk for medical students and clinical doctors <br>
+**slides**: [molQTL](../files/molQTL.pdf)
+
+·	Mendelian Randomization: Introductory talk for medical students and clinical doctors <br>
+**slides**: [Mendelian Randomization](../files/MendelianRandomization.pdf)
+
+·	Time-varying Mendelian Randomization
+**slides**: [Time-varying Mendelian Randomization](../files/time_varying_MR.pdf)
+
+·	GWAS & post-GWAS analysis: Introductory talk <br>
+**slides**: [GWAS & post-GWAS](../files/GWAS.pdf)
