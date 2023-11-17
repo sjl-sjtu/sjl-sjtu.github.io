@@ -16,7 +16,7 @@ Reseach interests
 ======
 ·	Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits <br>
 ·	Causal inference & causal discovery in multi-omics data (e.g., Mendelian randomization, causal representation learning for single-cell omics) <br>
-·	Computational (machine learning & deep learning) & statistical methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis on risk variants identified by GWAS, and temporal & spatial models <br>
+·	Statistical & computational (machine learning & deep learning) methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis on risk variants identified by GWAS, and temporal & spatial models <br>
 ·	Longitudinal modeling & causal effect estimation in epidemiology
 
 Publications
