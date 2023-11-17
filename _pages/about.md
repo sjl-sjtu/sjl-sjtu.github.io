@@ -84,7 +84,7 @@ Talks
 **slides**: [Mendelian Randomization](../files/MendelianRandomization.pdf)
 
 ·	Time-varying Mendelian Randomization <br>
-**slides**: [Time-varying Mendelian Randomization](../files/time_varying_MR.pdf)
+**slides**: [Time-varying Mendelian Randomization](../files/Time_varying_MR.pdf)
 
 ·	GWAS & post-GWAS analysis: Introductory talk <br>
 **slides**: [GWAS & post-GWAS](../files/GWAS.pdf)
