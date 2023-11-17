@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianle Sun (孙健乐)**, currently pursuing my M.S. (research-based) degree in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. I have also collaborated on epidemiological cohort studies and research utilizing deep learning and large language models (LLM) to interpret the epigenomic and transcriptomic functions of DNA sequences. Before this, I received my B.S. degree in Biotechnology in 2021 from Shanghai Jiao Tong University. 
+I am **Jianle Sun (孙健乐)**, currently pursuing my M.S. (research-based) degree in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. I have also collaborated on epidemiological cohort studies. Before this, I received my B.S. degree in Biotechnology in 2021 from Shanghai Jiao Tong University. 
 
 ***I am looking for a Ph.D. position in Computational Biology, Biostatistics, or Statistical Genetics.*** You can find my resume here: [JianleSun's CV](../files/CV_JianleSun.pdf)
 
@@ -56,7 +56,7 @@ Education
 Internships
 ======
 ·	Jul. 2023 - Oct. 2023: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory <br>
-*Developing pretrained BERT-based DNA large language model, and conducting multi-omic downstream tasks, including identifying genomic functional elements (promoters, enhancers, etc.), predicting epigenomic & expressive features, and assessing the effects of variants*
+*Developing pretrained BERT-based DNA large language model, and conducting multi-omic downstream tasks, including identifying genomic functional elements (promoters, enhancers, etc.), predicting epigenomic & transcriptomic features, and assessing the effects of variants*
 
 ·	Aug. 2022 - Jan. 2023: Biodata Analyst at Baiyi Health <br>
 *Establishing biomarker-based biological age models for eight systems/organs, and establishing classification model for thyroid disorders, and participating in the trial design and data analysis for the performance of Eye Parameter Evaluator*
