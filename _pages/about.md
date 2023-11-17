@@ -83,7 +83,7 @@ Talks
 ·	Mendelian Randomization: Introductory talk for medical students and clinical doctors <br>
 **slides**: [Mendelian Randomization](../files/MendelianRandomization.pdf)
 
-·	Time-varying Mendelian Randomization
+·	Time-varying Mendelian Randomization <br>
 **slides**: [Time-varying Mendelian Randomization](../files/time_varying_MR.pdf)
 
 ·	GWAS & post-GWAS analysis: Introductory talk <br>
