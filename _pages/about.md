@@ -15,8 +15,10 @@ I am **Jianle Sun (孙健乐)**, currently pursuing my M.S. (research-based) deg
 Reseach interests
 ======
 * Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits <br>
-* Causal inference & causal discovery in multi-omics data (e.g., Mendelian randomization, causal representation learning for single-cell omics) <br>
+* Causal inference & causal discovery methods in multi-omics data (e.g., Mendelian randomization, structure equation modeling, causal representation learning for single-cell omics) <br>
 * Statistical & computational (machine learning & deep learning) methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis on risk variants identified by GWAS, and temporal & spatial models <br>
 * Longitudinal modeling & causal effect estimation in epidemiology
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
+
+I have a keen interest in many aspects of nature, society, and the humanities. I am one of the initiators of the SJTU Philosophy Society, where I organize and participate in seminars on philosophy and the history of science. I also have over a year of experience studying classical languages such as Latin and Sanskrit.
