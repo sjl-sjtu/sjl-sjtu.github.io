@@ -83,6 +83,9 @@ Talks
 ·	Mendelian Randomization: Introductory talk for medical students and clinical doctors <br>
 **slides**: [Mendelian Randomization](../files/MendelianRandomization.pdf)
 
+·	Bayesian Network-based Mendelian Randomization for Variant Prioritization and Phenotypic Causal Inference
+The 9th National Conference on Computational Biology and Bioinformatics (NCCBB), Xuzhou, China
+
 ·	Time-varying Mendelian Randomization <br>
 **slides**: [Time-varying Mendelian Randomization](../files/Time_varying_MR.pdf)
 
