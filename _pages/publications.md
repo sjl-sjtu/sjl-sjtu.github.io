@@ -34,8 +34,3 @@ author_profile: true
 ***Read the manuscript***: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
