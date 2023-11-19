@@ -40,11 +40,11 @@ Skills
 
 Publications
 ======
-See [Publications](sjl-sjtu.github.io/publications)
+See [Publications](https://sjl-sjtu.github.io/publications)
   
 Talks
 ======
-See [Talks](sjl-sjtu.github.io/talks)
+See [Talks](https://sjl-sjtu.github.io/talks)
 
 You can also find the PDF format of my resume: [JianleSun's CV](../CV_JianleSun.pdf).
   
