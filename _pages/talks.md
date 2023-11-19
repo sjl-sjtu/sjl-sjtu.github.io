@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+---
 
 
 ·	Causal inference and causal learning:  Introductory talk for students from various STEM backgrounds <br>
