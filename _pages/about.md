@@ -19,4 +19,4 @@ Reseach interests
 * Statistical & computational (machine learning & deep learning) methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis on risk variants identified by GWAS, and temporal & spatial models <br>
 * Longitudinal modeling & causal effect estimation in epidemiology
 
-You can find the list of my publications and read the papers [here](sjl-sjtu.github.io/publications/).
+You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
