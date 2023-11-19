@@ -34,3 +34,4 @@ author_profile: true
 ***Read the manuscript***: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
+·	Liang, C., Bai, W., Qiao, L., Ren, Y., Sun, J., Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. Rethinking the BERT-like pretraining for DNA sequences. *ICLR 2024 in submission*
