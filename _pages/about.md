@@ -21,4 +21,4 @@ Reseach interests
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
 
-I have a keen interest in many aspects of nature, society, and the humanities. I am one of the initiators of the student Philosophy Society in SJTU, where I organized and participated in seminars on philosophy and the history of science. I also have over a year of experience studying classical languages such as Latin and Sanskrit.
+I have a keen interest in many aspects of nature, social science, and humanities. As one of the initiators of the student Philosophy Society in SJTU, I organized and participated in several seminars on philosophy and the history of science. I also have over a year of experience studying classical languages such as Latin and Sanskrit.
