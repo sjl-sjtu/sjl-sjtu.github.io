@@ -15,7 +15,7 @@ author_profile: true
 ***R package***: <https://github.com/sjl-sjtu/GWAS_meta> <br>
 ***Online tool***: <https://sunjianle-sjtu.shinyapps.io/analycode/>
 
-*	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics* Accepted. <br>
+*	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, Accepted. <br>
 ***Read the manuscript***: [BNMR](../files/BNMR.pdf) <br>
 ***R package***: <https://github.com/sjl-sjtu/bnmr>
 
