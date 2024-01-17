@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+* Integration of GWAS and eQTL
+**slides**: [Integration of GWAS & eQTL](../files/integration.pdf)
+
 * Causal inference and causal learning:  Introductory talk for students from various STEM backgrounds <br>
 **slides**: [Causality](../files/causality.pdf)
 
