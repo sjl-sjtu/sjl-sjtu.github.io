@@ -17,7 +17,7 @@ author_profile: true
 
 *	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, Accepted. <br>
 ***Read the manuscript***: [BNMR](../files/BNMR.pdf) <br>
-***R package***: <https://github.com/sjl-sjtu/bnmr>
+***R package***: <https://github.com/sjl-sjtu/bnmr2>
 
 *	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
 ***Read the manuscript***: [CLHLS](../files/CLHLS.pdf) <br>
