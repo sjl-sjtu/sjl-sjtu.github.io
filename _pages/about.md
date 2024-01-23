@@ -14,7 +14,7 @@ I am **Jianle Sun (孙健乐)**, currently pursuing my M.S. (research-based) deg
 
 Reseach interests
 ======
-* Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits <br>
+* Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits, e.g. understanding the functional effects of genome variants through the integration of GWAS and eQTL (Colocalization, MR, TWAS), and multi-omics modeling <br>
 * Causal inference & causal discovery methods in multi-omics data (e.g., Mendelian randomization, structure equation modeling, causal representation learning for single-cell omics) <br>
 * Statistical & computational (machine learning & deep learning) methods for single-cell multi-omics intergration, especially cell-specific epigenomic and transcriptomic functional analysis on risk variants identified by GWAS, and temporal & spatial models <br>
 * Longitudinal modeling & causal effect estimation in epidemiology
