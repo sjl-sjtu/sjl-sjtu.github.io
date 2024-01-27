@@ -16,11 +16,11 @@ author_profile: true
 ***Online tool***: <https://sunjianle-sjtu.shinyapps.io/analycode/>
 
 *	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. (2024) Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, Accepted. <br>
-***Read the manuscript***: [BNMR](../files/BNMR.pdf) <br>
+***Read the manuscript***: PDF: [BNMR](../files/BNMR.pdf) <br>
 ***R package***: <https://github.com/sjl-sjtu/bnmr2>
 
 *	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
-***Read the manuscript***: [CLHLS](../files/CLHLS.pdf) <br>
+***Read the manuscript***: PDF: [CLHLS](../files/CLHLS.pdf) <br>
 ***Analysis code***: <https://github.com/sjl-sjtu/CLHLS>
 
 *	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. *Briefings in Bioinformatics*, 22(6), bbab276. <br>
@@ -31,7 +31,7 @@ author_profile: true
 ***Read the paper***: <https://www.nature.com/articles/s41598-021-02706-0> | PDF: [ECAR](../files/ECAR.pdf)
 
 *	Gong, Y., Xu, J., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression. *Under Review* <br>
-***Read the manuscript***: [scBC](../files/scBC.pdf) <br>
+***Read the manuscript***: PDF: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
 *	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. Rethinking the BERT-like pretraining for DNA sequences. *arxiv* <br>
