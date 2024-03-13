@@ -34,7 +34,7 @@ author_profile: true
 ***Read the manuscript***: PDF: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
-*	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. Rethinking the BERT-like pretraining for DNA sequences. *arXiv* <br>
+*	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. Rethinking the BERT-like pretraining for DNA sequences. *arXiv*. <br>
 ***Read the manuscript***: <https://arxiv.org/abs/2310.07644>
 
 You can also find my articles on [Google Scholars](https://scholar.google.com/citations?user=sRFyIxAAAAAJ&hl=en&authuser=1), [ResearchGate](https://www.researchgate.net/profile/Jianle-Sun) or [ORCID](https://orcid.org/0000-0002-0001-0992).
