@@ -20,7 +20,6 @@ author_profile: true
 ***R package***: <https://github.com/sjl-sjtu/bnmr2>
 
 *	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
-***Read the manuscript***: PDF: [CLHLS](../files/CLHLS.pdf) <br>
 ***Analysis code***: <https://github.com/sjl-sjtu/CLHLS>
 
 *	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. *Briefings in Bioinformatics*, 22(6), bbab276. <br>
