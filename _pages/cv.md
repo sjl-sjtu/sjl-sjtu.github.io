@@ -17,7 +17,7 @@ Education
 
 Internships
 ======
-* Jul. 2023 - Oct. 2023: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory <br>
+* Jul. 2023 - Jun. 2024: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory <br>
 *Developing pretrained BERT-based DNA large language model, and conducting multi-omic downstream tasks, including identifying genomic functional elements (promoters, enhancers, etc.), predicting epigenomic & transcriptomic features, and assessing the effects of variants*
 
 * Aug. 2022 - Jan. 2023: Biodata Analyst at Baiyi Health <br>
