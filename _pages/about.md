@@ -10,8 +10,6 @@ redirect_from:
 
 I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I received my M.S. (research-based) and B.S. degree in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. I have also collaborated on epidemiological cohort studies, and done intern research on foundation models (e.g. BERT) for DNA sequence functional analysis. 
 
-***I am looking for a Ph.D. position in Computational Biology, Biostatistics, or Statistical Genetics.*** You can find my resume here: [JianleSun's CV](../files/CV_JianleSun.pdf).
-
 Reseach interests
 ======
 * Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and molecular QTLs (Colocalization, Mendelian randomization, TWAS), and multi-omics modeling <br>
