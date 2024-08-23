@@ -26,7 +26,7 @@ author_profile: true
 ***Read the paper***: <https://doi.org/10.1016/j.crmeth.2024.100742> | PDF: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
-* Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*.
+* Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
 ***Read the paper***: <https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1>
 
 *	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. (2023) Rethinking the BERT-like pretraining for DNA sequences. *arXiv*. <br>
