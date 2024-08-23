@@ -12,17 +12,17 @@ author_profile: true
 
 *Sorted by years.*
 
-* **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X., Zhang, Y. ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *Submitted* <br>
+* **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X., Zhang, Y. ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *Submitted*. <br>
 ***Codes***: <https://github.com/sjl-sjtu/ti-scMR>
 
 *	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
 ***Codes***: <https://github.com/sjl-sjtu/CLHLS>
 
-*	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. (2024). Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, Accepted. <br>
+*	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. (2024). Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, 1-14. <br>
 ***Read the paper***: <https://doi.org/10.1007/s00439-024-02640-x> | PDF: [BNMR](../files/BNMR.pdf) <br>
 ***R package***: <https://github.com/sjl-sjtu/bnmr2>
 
-*	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.  (2024). *Cell Reports Methods*, Accepted. <br>
+*	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.  (2024). *Cell Reports Methods*, 4(4). <br>
 ***Read the paper***: <https://doi.org/10.1016/j.crmeth.2024.100742> | PDF: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
