@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I received my M.S. (research-based) and B.S. degree in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. I have also collaborated on epidemiological cohort studies, and done intern research on foundation models (e.g. BERT) for DNA sequence functional analysis. 
+I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I obtained my M.S. (research-based) and B.S. degree in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational and statistical methods in multi-omics data, and Bayesian analysis. I have also collaborated on epidemiological cohort studies, and done intern research on foundation models (e.g. BERT) for DNA sequence functional analysis. 
 
 Reseach interests
 ======
