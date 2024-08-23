@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Aug. 2024 - Current: PhD student in Logic, Computation, and Methodology, Carnegie Mellon University
-* Sep. 2021 - Jun. 2024: M.S. in Bioinformatics & Biostatistics, Shanghai Jiao Tong University. | *Thesis: Statistical Methods for Genetic Association and Causal Inference with Genomic and Single-cell Transcriptomic Data*
+* Sep. 2021 - Jun. 2024: M.S. in Bioinformatics & Biostatistics, Shanghai Jiao Tong University. *Thesis: Statistical Methods for Genetic Association and Causal Inference with Genomic and Single-cell Transcriptomic Data*
 * Sep. 2017 - Jun. 2021: B.S. in Biotechnology, Shanghai Jiao Tong University (GPA: 3.94/4.3, rank 1/25).
 
 Internships
