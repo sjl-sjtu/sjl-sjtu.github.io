@@ -12,8 +12,9 @@ I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Co
 
 Reseach interests
 ======
+* Methodology for causal inference and causal discovery
 * Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and molecular QTLs (Colocalization, Mendelian randomization, TWAS), and multi-omics modeling <br>
-* Statistical & computational (machine learning & deep learning) methods in multi-omics data, including causal inference & causal discovery methods, single-cell multi-omics intergration, and temporal & spatial models <br>
+* Statistical & computational (machine learning) methods in multi-omics data including single-cell multi-omics intergration and temporal & spatial models <br>
 * Longitudinal modeling & causal effect estimation in epidemiology
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
