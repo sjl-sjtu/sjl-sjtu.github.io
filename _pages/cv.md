@@ -48,6 +48,6 @@ Talks
 ======
 See [Talks](https://sjl-sjtu.github.io/talks)
 
-You can also find the PDF format of my resume: [JianleSun's CV](../files/CV_JianleSun.pdf).
+% You can also find the PDF format of my resume: [JianleSun's CV](../files/CV_JianleSun.pdf).
   
 
