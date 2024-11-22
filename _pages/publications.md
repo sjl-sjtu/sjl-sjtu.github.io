@@ -10,13 +10,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-*Sorted by years.*
+*Sorted by domains and years.*
 
+### Statistical genetics and genomics
 * **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X., Zhang, Y. ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *Submitted*. <br>
 ***Codes***: <https://github.com/sjl-sjtu/ti-scMR>
-
-*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
-***Codes***: <https://github.com/sjl-sjtu/CLHLS>
 
 *	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. (2024). Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, 1-14. <br>
 ***Read the paper***: <https://doi.org/10.1007/s00439-024-02640-x> | PDF: [BNMR](../files/BNMR.pdf) <br>
@@ -25,12 +23,6 @@ author_profile: true
 *	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.  (2024). *Cell Reports Methods*, 4(4). <br>
 ***Read the paper***: <https://doi.org/10.1016/j.crmeth.2024.100742> | PDF: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
-
-* Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
-***Read the paper***: <https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1>
-
-*	Liang, C., Bai, W., Qiao, L., Ren, Y., **Sun, J.**, Ye, P., Yan, H., Ma, X., Zuo, W., & Ouyang, W. (2023) Rethinking the BERT-like pretraining for DNA sequences. *arXiv*. <br>
-***Read the paper***: <https://arxiv.org/abs/2310.07644>
 
 *	**Sun, J.**, Lyu, R., Deng, L., Li, Q., Zhao, Y., & Zhang, Y. (2022). SMetABF: A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included. *PLOS Computational Biology*, 18(3), e1009948. <br>
 ***Read the paper***: <https://doi.org/10.1371/journal.pcbi.1009948> | PDF: [SMetABF](../files/SMetABF.pdf) <br>
@@ -43,5 +35,16 @@ author_profile: true
 
 *	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12. <br>
 ***Read the paper***: <https://doi.org/10.1038/s41598-021-02706-0> | PDF: [ECAR](../files/ECAR.pdf)
+
+### Foundation models in Biology
+* Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
+***Read the paper***: <https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1>
+
+*	Liang, C., Qiao, L., Ye, P., Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X., Yan, H., Song, C., Ouyang, W., & Zuo, W. (2023) Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *arXiv*. <br>
+***Read the paper***: <https://arxiv.org/abs/2310.07644>
+
+### Epidemiology
+*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
+***Codes***: <https://github.com/sjl-sjtu/CLHLS>
 
 You can also find my articles on [Google Scholars](https://scholar.google.com/citations?user=sRFyIxAAAAAJ&hl=en&authuser=1), [ResearchGate](https://www.researchgate.net/profile/Jianle-Sun) or [ORCID](https://orcid.org/0000-0002-0001-0992).
