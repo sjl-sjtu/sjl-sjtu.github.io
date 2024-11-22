@@ -47,4 +47,6 @@ author_profile: true
 *	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
 ***Codes***: <https://github.com/sjl-sjtu/CLHLS>
 
+* **Sun, J.**, Deng, L., Zhu, H., Liu, M., Lyu, R., Lai, Q., & Zhang, Y. (2021). Meta-analysis on the association between rs11868035, rs823144, rs3851179 and Parkinson's disease. *Meta Gene*, 30, 100949.
+
 You can also find my articles on [Google Scholars](https://scholar.google.com/citations?user=sRFyIxAAAAAJ&hl=en&authuser=1), [ResearchGate](https://www.researchgate.net/profile/Jianle-Sun) or [ORCID](https://orcid.org/0000-0002-0001-0992).
