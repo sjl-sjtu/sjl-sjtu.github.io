@@ -12,7 +12,7 @@ author_profile: true
 
 *Sorted by domains and years.*
 
-### Statistical genetics and genomics
+### Statistical Genetics and Genomics
 * **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X., Zhang, Y. ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *Submitted*. <br>
 ***Codes***: <https://github.com/sjl-sjtu/ti-scMR>
 
@@ -36,7 +36,7 @@ author_profile: true
 *	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12. <br>
 ***Read the paper***: <https://doi.org/10.1038/s41598-021-02706-0> | PDF: [ECAR](../files/ECAR.pdf)
 
-### Foundation models in Biology
+### Foundation Models in Biology
 * Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
 ***Read the paper***: <https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1>
 
