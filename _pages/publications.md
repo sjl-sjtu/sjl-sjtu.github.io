@@ -12,7 +12,7 @@ author_profile: true
 
 *Sorted by domains and years.*
 
-### Statistical Genetics and Genomics
+### Methods in Statistical Genetics and Genomics
 * **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X., Zhang, Y. ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *Under Review*. <br>
 ***Codes***: <https://github.com/sjl-sjtu/ti-scMR>
 
