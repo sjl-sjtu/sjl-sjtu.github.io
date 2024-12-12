@@ -44,7 +44,7 @@ author_profile: true
 ***Read the paper***: <https://arxiv.org/abs/2310.07644>
 
 ### Epidemiology
-*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *Under Review* <br>
+*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, Accepted. <br>
 ***Codes***: <https://github.com/sjl-sjtu/CLHLS>
 
 * **Sun, J.**, Deng, L., Zhu, H., Liu, M., Lyu, R., Lai, Q., & Zhang, Y. (2021). Meta-analysis on the association between rs11868035, rs823144, rs3851179 and Parkinson's disease. *Meta Gene*, 30, 100949.
