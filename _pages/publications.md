@@ -38,7 +38,7 @@ author_profile: true
 
 ### Foundation Models in Biology
 * Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
-***Read the paper***: <https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1>
+***Read the paper***: <https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1> OR <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030819>
 
 *	Liang, C., Qiao, L., Ye, P., Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X., Yan, H., Song, C., Ouyang, W., & Zuo, W. (2023) Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *arXiv*. <br>
 ***Read the paper***: <https://arxiv.org/abs/2310.07644>
