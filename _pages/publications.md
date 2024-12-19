@@ -39,9 +39,9 @@ author_profile: true
 
 ### Foundation Models in Biology
 * Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
-[**Paper**](https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1> OR <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030819)
+[**bioRxiv**](https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1) | [**Review**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030819)
 
 *	Liang, C., Qiao, L., Ye, P., Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X., Yan, H., Song, C., Ouyang, W., & Zuo, W. (2023). Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *arXiv*. <br>
-[**Paper**](https://arxiv.org/abs/2310.07644)
+[**arXiv**](https://arxiv.org/abs/2310.07644)
 
 You can also find my articles on [Google Scholars](https://scholar.google.com/citations?user=sRFyIxAAAAAJ&hl=en&authuser=1), [ResearchGate](https://www.researchgate.net/profile/Jianle-Sun) or [ORCID](https://orcid.org/0000-0002-0001-0992).
