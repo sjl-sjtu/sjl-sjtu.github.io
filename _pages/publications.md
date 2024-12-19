@@ -20,7 +20,7 @@ author_profile: true
 ***Read the paper***: <https://doi.org/10.1007/s00439-024-02640-x> | PDF: [BNMR](../files/BNMR.pdf) <br>
 ***R package***: <https://github.com/sjl-sjtu/bnmr2>
 
-*	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.  (2024). *Cell Reports Methods*, 4(4). <br>
+*	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.  (2024). *Cell Reports Methods*, 4(4), 100742. <br>
 ***Read the paper***: <https://doi.org/10.1016/j.crmeth.2024.100742> | PDF: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
@@ -33,7 +33,7 @@ author_profile: true
 ***Read the paper***: <https://doi.org/10.1093/bib/bbab276> | PDF: [GESLM](../files/GESLM.pdf) <br>
 ***R package***: <https://github.com/sjl-sjtu/GESLM>
 
-*	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 1-12. <br>
+*	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 23354. <br>
 ***Read the paper***: <https://doi.org/10.1038/s41598-021-02706-0> | PDF: [ECAR](../files/ECAR.pdf)
 
 ### Foundation Models in Biology
