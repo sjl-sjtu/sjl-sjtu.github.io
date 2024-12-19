@@ -17,9 +17,7 @@ author_profile: true
 ***Codes***: <https://github.com/sjl-sjtu/ti-scMR>
 
 *	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. (2024). Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, 143(9-10), 1081–1094. <br>
-***Read the paper***: <https://doi.org/10.1007/s00439-024-02640-x> | PDF: [BNMR](../files/BNMR.pdf) <br>
-***Supplementary materials***: <https://static-content.springer.com/esm/art%3A10.1007%2Fs00439-024-02640-x/MediaObjects/439_2024_2640_MOESM1_ESM.pdf> <br>
-***R package***: <https://github.com/sjl-sjtu/bnmr2>
+[**Paper**](https://doi.org/10.1007/s00439-024-02640-x) | PDF: [**PDF**](../files/BNMR.pdf) | [**Supplementary materials**](https://static-content.springer.com/esm/art%3A10.1007%2Fs00439-024-02640-x/MediaObjects/439_2024_2640_MOESM1_ESM.pdf) | [**R package**](https://github.com/sjl-sjtu/bnmr2)
 
 *	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. (2024). Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.*Cell Reports Methods*, 4(4), 100742. <br>
 ***Read the paper***: <https://doi.org/10.1016/j.crmeth.2024.100742> | PDF: [scBC](../files/scBC.pdf) <br>
