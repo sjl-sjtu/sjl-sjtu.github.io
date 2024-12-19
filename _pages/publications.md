@@ -16,7 +16,7 @@ author_profile: true
 * **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X., Zhang, Y. ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *Under Review*. <br>
 ***Codes***: <https://github.com/sjl-sjtu/ti-scMR>
 
-*	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. (2024). Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, 143, 1081–1094. <br>
+*	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z., & Zhang, Y. (2024). Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, 143(9-10), 1081–1094. <br>
 ***Read the paper***: <https://doi.org/10.1007/s00439-024-02640-x> | PDF: [BNMR](../files/BNMR.pdf) <br>
 ***R package***: <https://github.com/sjl-sjtu/bnmr2>
 
@@ -44,7 +44,7 @@ author_profile: true
 ***Read the paper***: <https://arxiv.org/abs/2310.07644>
 
 ### Epidemiology
-*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. (2024) Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, 24, 3516. <br>
+*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. (2024) Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, 24(1), 3516. <br>
 ***Read the paper***: <https://doi.org/10.1186/s12889-024-21072-w> | PDF: [CLHLS](../files/CLHLS.pdf) <br>
 ***Codes***: <https://github.com/sjl-sjtu/CLHLS>
 
