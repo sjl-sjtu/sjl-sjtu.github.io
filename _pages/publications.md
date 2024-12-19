@@ -23,7 +23,7 @@ author_profile: true
 [**Paper**](https://doi.org/10.1016/j.crmeth.2024.100742) | [**PDF**](../files/scBC.pdf) | [**Python package**](https://github.com/sjl-sjtu/scBC)
 
 *	**Sun, J.**, Lyu, R., Deng, L., Li, Q., Zhao, Y., & Zhang, Y. (2022). SMetABF: A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included. *PLOS Computational Biology*, 18(3), e1009948. <br>
-[**Paper**](https://doi.org/10.1371/journal.pcbi.1009948) | [**PDF**](../files/SMetABF.pdf) [**R package**](https://github.com/sjl-sjtu/GWAS_meta) | [**Online tool**](https://sunjianle-sjtu.shinyapps.io/analycode/)
+[**Paper**](https://doi.org/10.1371/journal.pcbi.1009948) | [**PDF**](../files/SMetABF.pdf) | [**R package**](https://github.com/sjl-sjtu/GWAS_meta) | [**Online tool**](https://sunjianle-sjtu.shinyapps.io/analycode/)
 
 *	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. *Briefings in Bioinformatics*, 22(6), bbab276. <br>
 [**Paper**](https://doi.org/10.1093/bib/bbab276) | [**PDF**](../files/GESLM.pdf) | [**R package**](https://github.com/sjl-sjtu/GESLM)
