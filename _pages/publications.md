@@ -21,7 +21,7 @@ author_profile: true
 ***Supplementary materials***: <https://static-content.springer.com/esm/art%3A10.1007%2Fs00439-024-02640-x/MediaObjects/439_2024_2640_MOESM1_ESM.pdf> <br>
 ***R package***: <https://github.com/sjl-sjtu/bnmr2>
 
-*	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.  (2024). *Cell Reports Methods*, 4(4), 100742. <br>
+*	Gong, Y., Xu, J., Wu, M., Gao, R., **Sun, J.**, Yu, Z., & Zhang, Y. (2024). Single-Cell Biclustering for Cell-Specific Transcriptomic Perturbation Detection in AD Progression.*Cell Reports Methods*, 4(4), 100742. <br>
 ***Read the paper***: <https://doi.org/10.1016/j.crmeth.2024.100742> | PDF: [scBC](../files/scBC.pdf) <br>
 ***Python package***: <https://github.com/sjl-sjtu/scBC>
 
@@ -38,7 +38,7 @@ author_profile: true
 ***Read the paper***: <https://doi.org/10.1038/s41598-021-02706-0> | PDF: [ECAR](../files/ECAR.pdf)
 
 ### Epidemiology
-*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. (2024) Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, 24(1), 3516. <br>
+*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y. (2024). Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, 24(1), 3516. <br>
 ***Read the paper***: <https://doi.org/10.1186/s12889-024-21072-w> | PDF: [CLHLS](../files/CLHLS.pdf) <br>
 ***Supplementary materials***: <https://static-content.springer.com/esm/art%3A10.1186%2Fs12889-024-21072-w/MediaObjects/12889_2024_21072_MOESM1_ESM.pdf> <br>
 ***Codes***: <https://github.com/sjl-sjtu/CLHLS>
@@ -49,7 +49,7 @@ author_profile: true
 * Ye, P., Bai, W., Ren, Y., Li, W., Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
 ***Read the paper***: <https://www.biorxiv.org/content/10.1101/2024.07.16.603653v1> OR <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030819>
 
-*	Liang, C., Qiao, L., Ye, P., Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X., Yan, H., Song, C., Ouyang, W., & Zuo, W. (2023) Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *arXiv*. <br>
+*	Liang, C., Qiao, L., Ye, P., Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X., Yan, H., Song, C., Ouyang, W., & Zuo, W. (2023). Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *arXiv*. <br>
 ***Read the paper***: <https://arxiv.org/abs/2310.07644>
 
 You can also find my articles on [Google Scholars](https://scholar.google.com/citations?user=sRFyIxAAAAAJ&hl=en&authuser=1), [ResearchGate](https://www.researchgate.net/profile/Jianle-Sun) or [ORCID](https://orcid.org/0000-0002-0001-0992).
