@@ -26,7 +26,7 @@ author_profile: true
 [**Paper**](https://doi.org/10.1371/journal.pcbi.1009948) | [**PDF**](../files/SMetABF.pdf) [**R package**](https://github.com/sjl-sjtu/GWAS_meta) | [**Online tool**](https://sunjianle-sjtu.shinyapps.io/analycode/)
 
 *	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C., & Zhang, Y. (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. *Briefings in Bioinformatics*, 22(6), bbab276. <br>
-[**Paper**](https://doi.org/10.1093/bib/bbab276) | [**PDF**](../files/GESLM.pdf) | [**R package**](<https://github.com/sjl-sjtu/GESLM)
+[**Paper**](https://doi.org/10.1093/bib/bbab276) | [**PDF**](../files/GESLM.pdf) | [**R package**](https://github.com/sjl-sjtu/GESLM)
 
 *	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z., & Zhang, Y. (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 23354. <br>
 [**Paper**](https://doi.org/10.1038/s41598-021-02706-0) | [**PDF**](../files/ECAR.pdf)
