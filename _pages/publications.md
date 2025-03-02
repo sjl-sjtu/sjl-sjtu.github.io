@@ -32,7 +32,7 @@ author_profile: true
 [**Paper**](https://doi.org/10.1038/s41598-021-02706-0) | [**PDF**](../files/ECAR.pdf)
 
 ### Causal Inference and Machine Learning
-Dai, H., Ng, I., **Sun, J.**, Tang, Z, Luo, G., Dong, X., Spirtes, P., Zhang, K. (2025) When Selection meets
+*	Dai, H., Ng, I., **Sun, J.**, Tang, Z, Luo, G., Dong, X., Spirtes, P., Zhang, K. (2025) When Selection meets
 Intervention: Additional Complexities in Causal Discovery. *The Thirteenth International Conference on Learning Representations (ICLR)*, (Oral).
 
 ### Epidemiology
