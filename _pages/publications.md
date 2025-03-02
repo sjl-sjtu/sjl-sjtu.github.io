@@ -42,7 +42,7 @@ Intervention: Additional Complexities in Causal Discovery. *The Thirteenth Inter
 * **Sun, J.**, Deng, L., Zhu, H., Liu, M., Lyu, R., Lai, Q., & Zhang, Y. (2021). Meta-analysis on the association between rs11868035, rs823144, rs3851179 and Parkinson's disease. *Meta Gene*, 30, 100949.
 
 ### Foundation Models in Biology
-* Liang, C. $^#$, Ye, P.$\dag$, Yan, H.$\dag$, Zheng, P$\dag$, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W., Bai, L., Ouyang, W., Li, J. (2025). scWGBS-GPT: A Foundation Model for Capturing Long-Range CpG Dependencies in Single-Cell Whole-Genome Bisulfite Sequencing to Enhance Epigenetic Analysis. *bioRxiv*. <br>
+* Liang, C. $^\#$, Ye, P.$\dag$, Yan, H.$\dag$, Zheng, P$\dag$, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W., Bai, L., Ouyang, W., Li, J. (2025). scWGBS-GPT: A Foundation Model for Capturing Long-Range CpG Dependencies in Single-Cell Whole-Genome Bisulfite Sequencing to Enhance Epigenetic Analysis. *bioRxiv*. <br>
 [**bioRxiv**](https://www.biorxiv.org/content/10.1101/2025.02.19.638959v1)
 
 * Ye, P.$\dag$, Bai, W.$\dag$, Ren, Y.$\dag$, Li, W.$\dag$, Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X., Yan, H., Wang, Z., Wang, S. & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
