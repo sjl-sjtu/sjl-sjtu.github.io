@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I obtained my M.S. (research-based) and B.S. degree from the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. My researching field includes statistical genetics and genomics, causal inference, computational methods in multi-omics data, and Bayesian analysis. I have also collaborated on epidemiological cohort studies, and done intern research on foundation models (e.g. BERT) for DNA sequence functional analysis. 
+I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I obtained my M.S. (research-based) and B.S. degree from the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. I am working on the intersection of statistics, machine learning, and computational biology (like genetics and epidemiology).
 
 Reseach interests
 ======
-* Methodology for causal inference and causal discovery
-* Statistical genetics & genomics methodology (GWAS, post-GWAS, eQTL, TWAS, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and (single-cell) molecular QTLs (Colocalization, Mendelian randomization, TWAS) <br>
-  *That's the main work of my master's degree* <br>
-* Statistical & computational (machine learning) methods in multi-omics data including single-cell multi-omics intergration and temporal & spatial models <br>
-* Longitudinal modeling & causal effect estimation in epidemiology
+* Causal inference and causal structure learning
+* Statistical machine learning
+* Statistical genetics and genomics: GWAS, eQTL, Mendelian randomization, single-cell omics, etc.
+
+For my Master degree, I worked on the methodology of statistical genetics and genomics (GWAS, post-GWAS, eQTL, TWAS, single-cell genomics, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and (single-cell) molecular QTLs (Colocalization, Mendelian randomization, TWAS). I have also collaborated on epidemiological cohort studies, and done intern research on foundation models (e.g. BERT) for DNA sequence functional analysis. 
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
 
