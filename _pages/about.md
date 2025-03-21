@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I obtained my M.S. (research-based) and B.S. degree from the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. I am working on the intersection of statistics, machine learning, and computational biology (like genetics and epidemiology).
+I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I obtained my M.S. (research-based) and B.S. degree from the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. I am working on the intersection of statistics, machine learning, and computational biology (like genetics, genomics, and epidemiology).
 
 Reseach interests
 ======
