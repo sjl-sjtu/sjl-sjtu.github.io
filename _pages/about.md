@@ -16,7 +16,7 @@ Reseach interests
 * Statistical machine learning
 * Statistical genetics and genomics: GWAS, eQTL, Mendelian randomization, single-cell omics, etc.
 
-For my Master degree, I worked on the methodology of statistical genetics and genomics (GWAS, post-GWAS, eQTL, TWAS, single-cell genomics, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and (single-cell) molecular QTLs (Colocalization, Mendelian randomization, TWAS). I have also collaborated on epidemiological cohort studies, and done intern research on foundation models (e.g. BERT) for DNA sequence functional analysis. 
+For my Master degree, I worked on the methodology of statistical genetics and genomics (GWAS, post-GWAS, eQTL, TWAS, single-cell genomics, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and (single-cell) molecular QTLs (Colocalization, Mendelian randomization, TWAS). I have also collaborated on epidemiological cohort studies, and done intern research on foundation models for genomic analysis. 
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
 
