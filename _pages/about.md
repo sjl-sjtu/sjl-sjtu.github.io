@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianle Sun (孙健乐)**, currently a first-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I obtained my M.S. (research-based) and B.S. degree from the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. I am working on the intersection of statistics, machine learning, and computational biology (like genetics, genomics, and epidemiology).
+I am **Jianle Sun (孙健乐)**, currently a second-year PhD student in Logic, Computation, and Methodology at Carnegie Mellon University. Before this, I obtained my M.S. (research-based) and B.S. degree from the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. I am working on the intersection of statistics, machine learning, and computational biology (like genetics, genomics, and epidemiology).
 
 Reseach interests
 ======
-* Causal inference and causal structure learning
-* Statistical machine learning
-* Statistical genetics and genomics: GWAS, eQTL, Mendelian randomization, single-cell omics, etc.
+* Causal inference and learning.
+* Comuputational biology: Statistical genetics (GWAS, eQTL, Mendelian randomization) and genomics (single-cell and spatial omics, etc).
 
 For my Master degree, I worked on the methodology of statistical genetics and genomics (GWAS, post-GWAS, eQTL, TWAS, single-cell genomics, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and (single-cell) molecular QTLs (Colocalization, Mendelian randomization, TWAS). I have also collaborated on analyzing cohort studies in epedemiology, and participated in intern research on foundation models for genomic analysis. 
 
