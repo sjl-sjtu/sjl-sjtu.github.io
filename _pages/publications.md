@@ -13,7 +13,7 @@ author_profile: true
 *Sorted by domains and years.*
 
 ### Computational biology (statistical genetics, single-cell genomics, etc.)
-* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Bai, L., Ouyang, W., Yan, H. & Ye, P. (2025). scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration. *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*. (**Spotlight**)
+* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Bai, L., Ouyang, W., Yan, H. & Ye, P. (2025). scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration. *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*. (**Spotlight**) <br>
 [**Paper**](https://doi.org/10.48550/arXiv.2510.24987) | [**Codes**](https://github.com/sjl-sjtu/scMRDR) | [**Package Document**](https://sjl-sjtu.github.io/scMRDR/)
 
 * **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X.\*, Zhang, Y.\* ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *NAR Genomics and Bioinformatics*, 7(3), lqaf082. <br>
