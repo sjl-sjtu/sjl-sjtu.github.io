@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jianle Sun"
-  avatar           : "profile.png"
+  avatar           : "phot.jpg" #"profile.png"
   bio              : "PhD Student in Logic, Computation, and Methodology"
   location         : "Pittsburgh, US"
   employer         :
