@@ -16,13 +16,19 @@ redirect_from:
 * Sep. 2017 - Jun. 2021: B.S. in Biotechnology, Shanghai Jiao Tong University (GPA: 3.94/4.3, rank 1/25).
 
 ## Internships
-* Jul. 2023 - Jun. 2024: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory <br>
-*Developing pretrained BERT-based DNA large language model, and conducting multi-omic downstream tasks, including identifying genomic functional elements (promoters, enhancers, etc.), predicting epigenomic & transcriptomic features, and assessing the effects of variants*
+* 2023 - 2024: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory <br>
+*Genomics and single-cell foundation models*
 
-* Aug. 2022 - Jan. 2023: Biodata Analyst at Baiyi Health <br>
-*Establishing biomarker-based biological age models for eight systems/organs, and establishing classification model for thyroid disorders, and participating in the trial design and data analysis for the performance of Eye Parameter Evaluator*
+* 2022: Biodata Analyst at Baiyi Health <br>
+
+## Teaching assistants
+* At CMU
+  * 2025 Fall: 80-249 AI, Society, and Humanity
+* At SJTU
+  * 2023 Fall: GE6001 Scientific Writing, Integrity and Ethics
 
 ## Honors
+* NeurIPS 2025 top reviewer
 * Graduation with honor: College Graduate Excellence Award of Shanghai, 2021 (5%) <br>
 * National Encouragement Scholarship <br>
 * Fan Hsu-chi Scholarship <br>
