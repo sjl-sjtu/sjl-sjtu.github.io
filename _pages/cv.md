@@ -16,8 +16,8 @@ redirect_from:
 * Sep. 2017 - Jun. 2021: B.S. in Biotechnology, Shanghai Jiao Tong University (GPA: 3.94/4.3, rank 1/25).
 
 ## Internships
-* 2023 - 2024: Intern Researcher on AI for Science at Shanghai Artificial Intelligence Laboratory <br>
-*Genomics and single-cell foundation models*
+* 2023 - 2024: Intern Researcher at Shanghai Artificial Intelligence Laboratory <br>
+*AI for Science: Genomics and single-cell foundation models*
 
 * 2022: Biodata Analyst at Baiyi Health <br>
 
