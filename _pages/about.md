@@ -12,12 +12,11 @@ I am **Jianle Sun (孙健乐)**, currently a second-year PhD student in Logic, C
 
 Reseach interests
 ======
-* Causal inference and learning.
-* Comuputational biology: Statistical genetics (GWAS, eQTL, Mendelian randomization) and genomics (single-cell and spatial omics, etc).
-
-For my Master degree, I worked on the methodology of statistical genetics and genomics (GWAS, post-GWAS, eQTL, TWAS, single-cell genomics, etc.), and its application to human complex traits, e.g. understanding the cell-specific epigenomic and transcriptomic functional effects of genome variants through the integration of GWAS and (single-cell) molecular QTLs (Colocalization, Mendelian randomization, TWAS). I have also collaborated on analyzing cohort studies in epedemiology, and participated in intern research on foundation models for genomic analysis. 
+* Causal inference and learning. I particularly focus on learning causal relationships and performing individualized counterfactual inference from data, which bridges many active areas in statistics and machine learning, such as semiparametric estimation, conditional copulas, disentangled representation learning, and optimal transport.
+* Comuputational biology: Statistical genetics (GWAS, eQTL, TWAS, MR) and genomics (single-cell and spatial omics, etc). I am particularly interested in the integration and causal analysis of different genetic signals (GWAS, eQTLs) and omics data (transcriptomics, chromatin accessibility, methylation, etc.). It will facilitate a deeper understanding of the functional effects of variants and the mechanisms of gene expression regulation, but is also confronted by numerous challenges such as cross-population and cross-tissue heterogeneity, measurement noise, disparities in batch, resolution, and modality, and high dimensionality.
+* Foundation models in biology: Genomics language model, single-cell foundation model, etc.
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
 
-I have a keen interest in many aspects of nature, social science, and humanities. I organized and participated in several seminars on philosophy and the history of science. I also have over a year of experience studying classical languages such as Latin and Sanskrit.
+Beyond academy, I have a keen interest in many aspects of nature, social science, and humanities. I am particularly curious about how the modern world, characterized by the nation-state and capitalism, emerged from the Middle Ages in Europe. I want to understand how the Renaissance, Reformation, Scientific Revolution, and Enlightenment simultaneously connected the ancient and modern eras while completing a paradigmatic revolution in worldview. Furthermore, I am interested in how the rest of the world became involved in this process of globalization, and how all these elements relate to our current condition in the postmodern, post-industrial society. I organized and participated in several seminars on philosophy and the history of science. I also have over a year of experience studying classical languages such as Latin and Sanskrit.
 
