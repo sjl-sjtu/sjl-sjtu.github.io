@@ -12,9 +12,9 @@ I am **Jianle Sun (孙健乐)**, currently a second-year PhD student in Logic, C
 
 Reseach interests
 ======
-* Causal inference and learning. I particularly focus on learning causal relationships and performing individualized counterfactual inference from data, which bridges many active areas in statistics and machine learning, such as semiparametric estimation, conditional copulas, disentangled representation learning, and optimal transport.
-* Comuputational biology: Statistical genetics (GWAS, eQTL, TWAS, MR) and genomics (single-cell and spatial omics, etc). I am particularly interested in the integration and causal analysis of different genetic signals (GWAS, eQTLs) and omics data (transcriptomics, chromatin accessibility, methylation, etc.). It will facilitate a deeper understanding of the functional effects of variants and the mechanisms of gene expression regulation, but is also confronted by numerous challenges such as cross-population and cross-tissue heterogeneity, measurement noise, disparities in batch, resolution, and modality, and high dimensionality.
-* Foundation models in biology: Genomics language model, single-cell foundation model, etc.
+* **Causal inference and learning**. I particularly focus on learning causal relationships and performing individualized counterfactual inference from data, which bridges many active areas in statistics and machine learning, such as semiparametric estimation, conditional copulas, disentangled representation learning, and optimal transport.
+* **Comuputational biology**: Statistical genetics (GWAS, eQTL, TWAS, MR) and genomics (single-cell and spatial omics, etc). I am particularly interested in the integration and causal analysis of different genetic signals (GWAS, eQTLs) and omics data (transcriptomics, chromatin accessibility, methylation, etc.). It will facilitate a deeper understanding of the functional effects of variants and the mechanisms of gene expression regulation, but is also confronted by numerous challenges such as cross-population and cross-tissue heterogeneity, measurement noise, disparities in batch, resolution, and modality, and high dimensionality.
+* **Foundation models in biology**: Genomics language model, single-cell foundation model, etc.
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
 
