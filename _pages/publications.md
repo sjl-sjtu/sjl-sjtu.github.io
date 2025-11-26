@@ -13,13 +13,13 @@ author_profile: true
 *Sorted by domains and years.*
 
 ### Computational biology (statistical genetics, single-cell genomics, etc.)
-* **Sun, J.**, Stojanov, P., Zhang, K. (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
+* **Sun, J.**, Stojanov, P., Zhang, K.\* (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.21.689783) | [**Codes**](https://github.com/sjl-sjtu/scDRP) | [**Package Document**](https://sjl-sjtu.github.io/scDRP/index.html)
 
-* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Bai, L., Ouyang, W., Yan, H. & Ye, P. (2025). scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration. *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*. (**Spotlight**) <br>
+* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Bai, L., Ouyang, W., Yan, H. & Ye, P.\* (2025). scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration. *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*. (**Spotlight**) <br>
 [**Paper**](https://doi.org/10.48550/arXiv.2510.24987) | [**Codes**](https://github.com/sjl-sjtu/scMRDR) | [**Package Document**](https://sjl-sjtu.github.io/scMRDR/)
 
-* **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X.\*, Zhang, Y.\* ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *NAR Genomics and Bioinformatics*, 7(3), lqaf082. <br>
+* **Sun, J.**, Dong Q., Wei, J., Gao, Y., Yu, Z., Hu, X.\*, Zhang, Y.\* (2025). ti-scMR: Trajectory-inference-based dynamic single-cell Mendelian randomization identifies causal genes underlying phenotypic differences. *NAR Genomics and Bioinformatics*, 7(3), lqaf082. <br>
 [**Paper**](https://doi.org/10.1093/nargab/lqaf082) | [**Codes**](https://github.com/sjl-sjtu/ti-scMR)
 
 *	**Sun, J.**, Zhou, J., Gong, Y., Pang, C., Ma, Y., Zhao, J., Yu, Z.\*, & Zhang, Y.\* (2024). Bayesian network-based Mendelian randomization for variant prioritization and phenotypic causal inference. *Human Genetics*, 143(9-10), 1081–1094. <br>
