@@ -13,7 +13,7 @@ author_profile: true
 *Sorted by domains and years.*
 
 ### Computational biology (statistical genetics, single-cell genomics, etc.)
-* Jianle Sun, Petar Stojanov, Kun Zhang. (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
+* **Sun, J.**, Stojanov, P., Zhang, K. (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.21.689783) | [**codes**](https://github.com/sjl-sjtu/scDRP) | [**Package Document**](https://sjl-sjtu.github.io/scDRP/index.html)
 
 * **Sun, J.**, Liang, C., Wei, R., Zheng, P., Bai, L., Ouyang, W., Yan, H. & Ye, P. (2025). scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration. *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*. (**Spotlight**) <br>
