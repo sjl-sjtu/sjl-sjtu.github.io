@@ -34,13 +34,13 @@ author_profile: true
 *	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C.\*, & Zhang, Y.\* (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. *Briefings in Bioinformatics*, 22(6), bbab276. <br>
 [**Paper**](https://doi.org/10.1093/bib/bbab276) | [**R package**](https://github.com/sjl-sjtu/GESLM)
 
-*	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z.\*, & Zhang, Y.\* (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 23354. <br>
-[**Paper**](https://doi.org/10.1038/s41598-021-02706-0)
-
-### Causal Inference and Machine Learning
+### General Methodology: Causal Inference, Machine Learning, etc.
 *	Dai, H., Ng, I., **Sun, J.**, Tang, Z, Luo, G., Dong, X., Spirtes, P.\*, Zhang, K.\* (2025) When Selection meets
 Intervention: Additional Complexities in Causal Discovery. *The Thirteenth International Conference on Learning Representations (ICLR)*. (**Oral**) <br>
 [**Paper**](https://doi.org/10.48550/arXiv.2503.07302)
+
+*	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z.\*, & Zhang, Y.\* (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 23354. <br>
+[**Paper**](https://doi.org/10.1038/s41598-021-02706-0)
 
 ### Epidemiology
 *	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y.\* (2024). Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, 24(1), 3516. <br>
