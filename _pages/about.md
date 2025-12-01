@@ -18,5 +18,7 @@ Reseach interests
 
 You can find the list of my publications and read the papers [here](https://sjl-sjtu.github.io/publications/).
 
+I am happy with collaboration on theory (asymptotic properties, uncertainty quantification), methodology (representation learning, effect estimation, counterfactual generation), and application (genetics, genomics, epidemiology).
+
 Beyond academy, I have a keen interest in many aspects of nature, social science, and humanities. I am particularly curious about how the modern world, characterized by the nation-state, representative democracy and capitalism, emerged from the Middle Ages in Europe, how the Renaissance, Reformation, Scientific Revolution, and Enlightenment simultaneously connected the ancient and modern eras while completing a paradigmatic revolution in worldview, how the rest of the world became involved in this process of globalization, and how all these elements relate to our current condition in the postmodern, post-industrial society. When at SJTU, I organized and participated in several seminars on philosophy and the history of science. I also have over a year of experience studying classical languages such as Latin and Sanskrit.
 
