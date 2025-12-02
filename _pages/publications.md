@@ -13,6 +13,9 @@ author_profile: true
 *Sorted by domains and years.*
 
 ### Computational biology (statistical genetics, single-cell genomics, etc.)
+* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *bioRxiv*. <br>
+[**bioRxiv**](https://doi.org/10.1101/2025.11.25.689803) | [**Codes**](https://github.com/sjl-sjtu/scMRDR) | [**Package Document**](https://sjl-sjtu.github.io/scMRDR/)
+
 * **Sun, J.**, Stojanov, P., Zhang, K.\* (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.21.689783) | [**Codes**](https://github.com/sjl-sjtu/scDRP) | [**Package Document**](https://sjl-sjtu.github.io/scDRP/index.html)
 
