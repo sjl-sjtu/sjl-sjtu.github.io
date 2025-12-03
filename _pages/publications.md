@@ -13,7 +13,7 @@ author_profile: true
 *Sorted by domains and years.*
 
 ### Computational biology (statistical genetics, single-cell genomics, etc.)
-* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *bioRxiv*. (co-first author) <br>
+* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *bioRxiv*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.25.689803) | [**Codes**](https://github.com/sjl-sjtu/scMRDR) | [**Package Document**](https://sjl-sjtu.github.io/scMRDR/)
 
 * **Sun, J.**, Stojanov, P., Zhang, K.\* (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
@@ -46,7 +46,7 @@ Intervention: Additional Complexities in Causal Discovery. *The Thirteenth Inter
 [**Paper**](https://doi.org/10.1038/s41598-021-02706-0)
 
 ### Foundation Models in Biology
-* Ran Wei #, Ziyao Zhang #, **Jianle Sun #**, Yongkang Sun #, Juan Meng, Peng Zheng, Chaoqi Liang, Fanyi Meng, Wanli Ouyang, Lei Bai\*, Peng Ye\*, Yidi Sun\* (2025). scMOBA: A conversational single-cell Multi-Omics Brain Agent across species. *bioRxiv*. <br>
+* Ran Wei #, Ziyao Zhang #, **Jianle Sun #**, Yongkang Sun #, Juan Meng, Peng Zheng, Chaoqi Liang, Fanyi Meng, Wanli Ouyang, Lei Bai\*, Peng Ye\*, Yidi Sun\* (2025). scMOBA: A conversational single-cell Multi-Omics Brain Agent across species. *bioRxiv*. (co-first author)  <br>
 [**bioRxiv**](https://doi.org/10.64898/2025.12.01.691565)
 
 * Liang, C.#, Ye, P.#, Yan, H.#, Zheng, P#, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W.\*, Bai, L.\*, Ouyang, W.\*, Li, J.\* (2025). scWGBS-GPT: A Foundation Model for Capturing Long-Range CpG Dependencies in Single-Cell Whole-Genome Bisulfite Sequencing to Enhance Epigenetic Analysis. *bioRxiv*. <br>
