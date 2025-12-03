@@ -13,7 +13,7 @@ author_profile: true
 *Sorted by domains and years.*
 
 ### Computational biology (statistical genetics, single-cell genomics, etc.)
-* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *bioRxiv*. <br>
+* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *bioRxiv*. (co-first author) <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.25.689803) | [**Codes**](https://github.com/sjl-sjtu/scMRDR) | [**Package Document**](https://sjl-sjtu.github.io/scMRDR/)
 
 * **Sun, J.**, Stojanov, P., Zhang, K.\* (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
@@ -45,13 +45,10 @@ Intervention: Additional Complexities in Causal Discovery. *The Thirteenth Inter
 *	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z.\*, & Zhang, Y.\* (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 23354. <br>
 [**Paper**](https://doi.org/10.1038/s41598-021-02706-0)
 
-### Epidemiology
-*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y.\* (2024). Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, 24(1), 3516. <br>
-[**Paper**](https://doi.org/10.1186/s12889-024-21072-w) | [**Supplementary materials**](https://static-content.springer.com/esm/art%3A10.1186%2Fs12889-024-21072-w/MediaObjects/12889_2024_21072_MOESM1_ESM.pdf) | [**Codes**](https://github.com/sjl-sjtu/CLHLS)
-
-* **Sun, J.**, Deng, L., Zhu, H., Liu, M., Lyu, R., Lai, Q.\*, & Zhang, Y.\* (2021). Meta-analysis on the association between rs11868035, rs823144, rs3851179 and Parkinson's disease. *Meta Gene*, 30, 100949.
-
 ### Foundation Models in Biology
+* Ran Wei #, Ziyao Zhang #, **Jianle Sun #**, Yongkang Sun #, Juan Meng, Peng Zheng, Chaoqi Liang, Fanyi Meng, Wanli Ouyang, Lei Bai\*, Peng Ye\*, Yidi Sun\* (2025). scMOBA: A conversational single-cell Multi-Omics Brain Agent across species. *bioRxiv*. <br>
+[**bioRxiv**](https://doi.org/10.64898/2025.12.01.691565)
+
 * Liang, C.#, Ye, P.#, Yan, H.#, Zheng, P#, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W.\*, Bai, L.\*, Ouyang, W.\*, Li, J.\* (2025). scWGBS-GPT: A Foundation Model for Capturing Long-Range CpG Dependencies in Single-Cell Whole-Genome Bisulfite Sequencing to Enhance Epigenetic Analysis. *bioRxiv*. <br>
 [**bioRxiv**](https://www.biorxiv.org/content/10.1101/2025.02.19.638959v1)
 
@@ -60,5 +57,11 @@ Intervention: Additional Complexities in Causal Discovery. *The Thirteenth Inter
 
 *	Liang, C.#, Qiao, L.#, Ye, P.#, Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X.\*, Yan, H.\*, Song, C.\*, Ouyang, W.\*, & Zuo, W.\* (2023). Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *arXiv*. <br>
 [**arXiv**](https://arxiv.org/abs/2310.07644)
+
+### Epidemiology
+*	**Sun, J.**, Deng, L., Li, Q., Zhou, J., & Zhang, Y.\* (2024). Dynamic relations between longitudinal morphological, behavioral, and emotional indicators and cognitive impairment: evidence from the Chinese Longitudinal Healthy Longevity Survey. *BMC Public Health*, 24(1), 3516. <br>
+[**Paper**](https://doi.org/10.1186/s12889-024-21072-w) | [**Supplementary materials**](https://static-content.springer.com/esm/art%3A10.1186%2Fs12889-024-21072-w/MediaObjects/12889_2024_21072_MOESM1_ESM.pdf) | [**Codes**](https://github.com/sjl-sjtu/CLHLS)
+
+* **Sun, J.**, Deng, L., Zhu, H., Liu, M., Lyu, R., Lai, Q.\*, & Zhang, Y.\* (2021). Meta-analysis on the association between rs11868035, rs823144, rs3851179 and Parkinson's disease. *Meta Gene*, 30, 100949.
 
 You can also find my articles on [Google Scholars](https://scholar.google.com/citations?user=sRFyIxAAAAAJ&hl=en&authuser=1), [ResearchGate](https://www.researchgate.net/profile/Jianle-Sun) or [ORCID](https://orcid.org/0000-0002-0001-0992).
