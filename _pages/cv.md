@@ -25,12 +25,13 @@ redirect_from:
 * 2022: Biodata Analyst at Baiyi Health <br>
 
 ## Student service
-#### Teaching assistants
+### Teaching assistants
 * At CMU
   * 2025 Fall: 80-249 AI, Society, and Humanity
 * At SJTU
   * 2023 Fall: GE6001 Scientific Writing, Integrity and Ethics
-#### Others
+
+### Others
 * At SJTU
   * 2019-2024: Staff, Manager, Deputy Director at SJTU Kindness House (similar to pantry in US universities)
   * 2021-2023: New Media Operations and Editorial for SJTU Alumni Association
