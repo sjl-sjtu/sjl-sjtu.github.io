@@ -48,7 +48,7 @@ redirect_from:
 ## Skills
 * Language:
   * Chinese (Madarin), English (IELTS 7.5), Japanese (junior), Learning experience on antient languages (Latin & Sankrit)
-* Computer:
+* IT:
   * Python, R, MATLAB, SPSS, LaTeX, PyTorch, Linux, SQL, etc.
 
 ## Publications
