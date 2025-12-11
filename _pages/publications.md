@@ -49,7 +49,7 @@ Intervention: Additional Complexities in Causal Discovery. *The Thirteenth Inter
 * Ran Wei #, Ziyao Zhang #, **Jianle Sun #**, Yongkang Sun #, Juan Meng, Peng Zheng, Chaoqi Liang, Fanyi Meng, Wanli Ouyang, Lei Bai\*, Peng Ye\*, Yidi Sun\* (2025). scMOBA: A conversational single-cell Multi-Omics Brain Agent across species. *bioRxiv*. (co-first author)  <br>
 [**bioRxiv**](https://doi.org/10.64898/2025.12.01.691565)
 
-* Liang, C.#, Ye, P.#, Yan, H.#, Zheng, P#, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W.\*, Bai, L.\*, Ouyang, W.\*, Li, J.\* (2025). scWGBS-GPT: A Foundation Model for Capturing Long-Range CpG Dependencies in Single-Cell Whole-Genome Bisulfite Sequencing to Enhance Epigenetic Analysis. *bioRxiv*. <br>
+* Liang, C.#, Ye, P.#, Yan, H.#, Zheng, P#, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W.\*, Bai, L.\*, Ouyang, W.\*, Li, J.\* (2025). scDNAm-GPT Captures Genome-wide CpG Dependencies in Single-cell DNA methylomes to Revolutionize Epigenetic Analysis. *bioRxiv*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.02.19.638959v1)
 
 * Ye, P.#, Bai, W.#, Ren, Y.#, Li, W.#, Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X.\*, Yan, H.\*, Wang, Z.\*, Wang, S.\* & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
