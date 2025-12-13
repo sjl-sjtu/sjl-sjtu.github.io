@@ -20,7 +20,7 @@ redirect_from:
   * Courseworks:
     * Quantitative: Calculus I & II, Linear Algebra, Probability & Statistics, Thinking & Approach of Programming, Biostatistical Models, Biostatistics & Mathematical Modeling, Stochastic Simulations, Business Analytics & Data Mining
     * Science/Biology-related: Physics I & II, Inorganic & Analytic Chemistry, Organic Chemistry, Physical Chemistry, Biochemistry I & II, Genetics, Cell Biology, Molecular Biology, Microbiology, Anatomy & Physiology, Ecology & Evolution, Immunology, Developmental Biology, Introduction to Medicine, Corresponding Laboratories
-    * Others: Microeconomics, Macroeconomics, Classic Readings in Political Economy, Logic and Boundary of Politics, General Psychology, Cognitive Psychology, French I, Japanese I, Latin I & II, Calssical Sanskrit Reading, Calligraphy, Drawing, Bridge, Music Theory, Film Culture & Art, Modern Chinese Poems, Modern Chinese Fiction, European Culture, Indian History & Culture, Ancient Greek Civilization, History of Western Philosophy, Chinese Philosophy, Early Globalization in Ming-Qing China, etc.
+    * Others: Microeconomics, Macroeconomics, Classic Readings in Political Economy, Logic and Boundary of Politics, International Political Economical Theory, General Psychology, Cognitive Psychology, French I, Japanese I, Latin I & II, Calssical Sanskrit Reading, Calligraphy, Drawing, Bridge, Music Theory, Film Culture & Art, Modern Chinese Poems, Modern Chinese Fiction, European Culture, Indian History & Culture, Ancient Greek Civilization, History of Western Philosophy, Chinese Philosophy, Early Globalization in Ming-Qing China, etc.
 
 ## Internships
 * 2023 - 2024: Intern Researcher at Shanghai Artificial Intelligence Laboratory <br>
