@@ -17,6 +17,10 @@ redirect_from:
   * Thesis: Statistical Methods for Genetic Association and Causal Inference with Genomic and Single-cell Transcriptomic Data
 * Sep. 2017 - Jun. 2021: B.S. in Biotechnology, Shanghai Jiao Tong University (GPA: 3.94/4.3, rank 1/25). <br>
   * Thesis: Bayesian Network based Mendelian Randomization
+  * Courseworks:
+    · Quantitative: Calculus I & II, Linear Algebra, Probability & Statistics, Thinking & Approach of Programming, Biostatistical Models, Biostatistics & Mathematical Modeling, Stochastic Simulations, Business Analytics & Data Mining
+    · Science/Biology: Physics I & II, Inorganic & Analytic Chemistry, Organic Chemistry, Physical Chemistry, Biochemistry I & II, Genetics, Cell Biology, Molecular Biology, Microbiology, Anatomy & Physiology, Ecology & Evolution, Immunology, Developmental Biology, Introduction to Medicine
+    · Others: Microeconomics, Macroeconomics, Classic Readings in Political Economy, Logic and Boundary of Politics, General Psychology, Cognitive Psychology, French I, Japanese I, Latin I & II, Calssical Sanskrit Reading, Calligraphy, Drawing, Bridge, Music Theory, Film Art, Modern Chinese Poems, Modern Chinese Fiction, European Culture, Indian History, Ancient Greek Civilization, History of Western Philosophy, Chinese Philosophy, etc.
 
 ## Internships
 * 2023 - 2024: Intern Researcher at Shanghai Artificial Intelligence Laboratory <br>
