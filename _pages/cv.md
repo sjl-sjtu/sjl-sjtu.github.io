@@ -18,7 +18,7 @@ redirect_from:
 * Sep. 2017 - Jun. 2021: B.S. in Biotechnology, Shanghai Jiao Tong University (GPA: 3.94/4.3, rank 1/25). <br>
   * Thesis: Bayesian Network based Mendelian Randomization
   * Courseworks:
-    * Quantitative: Calculus I & II, Linear Algebra, Probability & Statistics, Thinking & Approach of Programming, Biostatistical Models, Biostatistics & Mathematical Modeling, Stochastic Simulations, Business Analytics & Data Mining
+    * Quantitative Methods: Calculus I & II, Linear Algebra, Probability & Statistics, Thinking & Approach of Programming, Biostatistical Models, Biostatistics & Mathematical Modeling, Stochastic Simulations, Business Analytics & Data Mining
     * Science/Biology-related: Physics I & II, Inorganic & Analytic Chemistry, Organic Chemistry, Physical Chemistry, Biochemistry I & II, Genetics, Cell Biology, Molecular Biology, Microbiology, Anatomy & Physiology, Ecology & Evolution, Immunology, Developmental Biology, Bioinformatics, Introduction to Medicine, Corresponding Laboratories
     * Others: Microeconomics, Macroeconomics, Securities Analysis, Classic Readings in Political Economy, Logic and Boundary of Politics, International Political Economical Theory, General Psychology, Cognitive Psychology, French I, Japanese I, Latin I & II, Calssical Sanskrit Reading, Calligraphy, Drawing, Bridge, Music Theory, Film Culture & Art, Modern Chinese Poems, Modern Chinese Fiction, European Culture, Indian History & Culture, Ancient Greek Civilization, History of Western Philosophy, Chinese Philosophy, Early Globalization in Ming-Qing China, etc.
 
