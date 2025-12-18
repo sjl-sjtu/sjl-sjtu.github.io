@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Aug. 2024 - Current: PhD student in Logic, Computation, and Methodology, Carnegie Mellon University. <br>
-  * Courseworks: Intermediate Statistics, Advanced Statistical Theory, Probabilistic Graphical Models, Advanced Deep Learning, Game Theory, Foundations of Causation and Machine Learning, Philosophy Seminar I & II
+  * Courseworks: Intermediate Statistics, Advanced Statistical Theory, Advanced Introduction to Machine Learning, Probabilistic Graphical Models, Advanced Deep Learning, Statistical Optimal Transport I & II, Game Theory, Foundations of Causation and Machine Learning, Foundations of Causal Inference, Modern Causal Inference, Algebraic Logic, Philosophy Seminar I & II
 * Sep. 2021 - Jun. 2024: M.S. in Bioinformatics & Biostatistics, Shanghai Jiao Tong University (Graduation with Honors). <br>
   * Courseworks: Fundamental Mathematical Statistics, Applied Stochastic Processes, Causal Inference Methods in Data Science, Data Mining, Machine Learning, Statistical Learning, Neural Network Theory and Application, Introduction to Computational Biology, Medical Bioinformatics, Biology Mathematics, Structural Biology
   * Thesis: Statistical Methods for Genetic Association and Causal Inference with Genomic and Single-cell Transcriptomic Data
