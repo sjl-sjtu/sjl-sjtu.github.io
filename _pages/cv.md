@@ -42,7 +42,7 @@ redirect_from:
 
 ## Honors
 * NeurIPS 2025 top reviewer
-* Graduation with honor: College Graduate Excellence Award of Shanghai, 2021 (5%) <br>
+* College Graduate Excellence Award of Shanghai, 2021 (5%) <br>
 * National Encouragement Scholarship <br>
 * Fan Hsu-chi Scholarship <br>
 * Tang You Shuqi Named Scholarship <br>
