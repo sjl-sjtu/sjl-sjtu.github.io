@@ -26,7 +26,7 @@ redirect_from:
 * 2023 - 2024: Intern Researcher at Shanghai Artificial Intelligence Laboratory <br>
 *AI for Science: Genome and single-cell foundation models*
 
-* 2022: Biodata Analyst at Baiyi Health <br>
+* 2022: Biodata Analyst at Baiyi Healthcare <br>
 
 ## Student service
 ### Teaching assistants
