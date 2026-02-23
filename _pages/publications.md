@@ -12,6 +12,17 @@ author_profile: true
 
 *Sorted by domains and years.*
 
+### General Methodology: Causal Inference, Machine Learning, etc.
+* **Sun, J.**, & Zhang, K. (2026). Nonparametric Identification and Inference for Counterfactual Distributions with Confounding. *arXiv*. <br>
+[**arXiv**](https://doi.org/10.48550/arXiv.2602.15916)
+
+*	Dai, H., Ng, I., **Sun, J.**, Tang, Z, Luo, G., Dong, X., Spirtes, P.\*, Zhang, K.\* (2025) When Selection meets
+Intervention: Additional Complexities in Causal Discovery. *The Thirteenth International Conference on Learning Representations (ICLR)*. (**Oral**) <br>
+[**Paper**](https://doi.org/10.48550/arXiv.2503.07302)
+
+*	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z.\*, & Zhang, Y.\* (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 23354. <br>
+[**Paper**](https://doi.org/10.1038/s41598-021-02706-0)
+
 ### Computational Biology (Statistical Genetics, Single-cell Genomics, etc.)
 * **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *bioRxiv*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.25.689803) | [**Codes**](https://github.com/sjl-sjtu/scMRDR) | [**Package Document**](https://sjl-sjtu.github.io/scMRDR/)
@@ -36,14 +47,6 @@ author_profile: true
 
 *	Lyu, R., **Sun, J.**, Xu, D., Jiang, Q., Wei, C.\*, & Zhang, Y.\* (2021). GESLM algorithm for detecting causal SNPs in GWAS with multiple phenotypes. *Briefings in Bioinformatics*, 22(6), bbab276. <br>
 [**Paper**](https://doi.org/10.1093/bib/bbab276) | [**R package**](https://github.com/sjl-sjtu/GESLM)
-
-### General Methodology: Causal Inference, Machine Learning, etc.
-*	Dai, H., Ng, I., **Sun, J.**, Tang, Z, Luo, G., Dong, X., Spirtes, P.\*, Zhang, K.\* (2025) When Selection meets
-Intervention: Additional Complexities in Causal Discovery. *The Thirteenth International Conference on Learning Representations (ICLR)*. (**Oral**) <br>
-[**Paper**](https://doi.org/10.48550/arXiv.2503.07302)
-
-*	Zhou, Y., Fa, B., Wei, T., **Sun, J.**, Yu, Z.\*, & Zhang, Y.\* (2021). Elastic Correlation Adjusted Regression (ECAR) scores for high dimensional variable importance measuring. *Scientific Reports*, 11(1), 23354. <br>
-[**Paper**](https://doi.org/10.1038/s41598-021-02706-0)
 
 ### Foundation Models in Biology
 * Ran Wei #, Ziyao Zhang #, **Jianle Sun #**, Yongkang Sun #, Juan Meng, Peng Zheng, Chaoqi Liang, Fanyi Meng, Wanli Ouyang, Lei Bai\*, Peng Ye\*, Yidi Sun\* (2025). scMOBA: A conversational single-cell Multi-Omics Brain Agent across species. *bioRxiv*. (co-first author)  <br>
