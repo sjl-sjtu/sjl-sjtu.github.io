@@ -13,7 +13,7 @@ author_profile: true
 *Sorted by domains and years.*
 
 ### General Methodology: Causal Inference, Machine Learning, etc.
-* **Sun, J.**, & Zhang, K. (2026). Nonparametric Identification and Inference for Counterfactual Distributions with Confounding. *arXiv*. <br>
+* **Sun, J.**, & Zhang, K. (2026). Nonparametric Identification and Inference for Counterfactual Distributions with Confounding. *PrePrint*. <br>
 [**arXiv**](https://doi.org/10.48550/arXiv.2602.15916)
 
 *	Dai, H., Ng, I., **Sun, J.**, Tang, Z, Luo, G., Dong, X., Spirtes, P.\*, Zhang, K.\* (2025) When Selection meets
@@ -24,10 +24,10 @@ Intervention: Additional Complexities in Causal Discovery. *The Thirteenth Inter
 [**Paper**](https://doi.org/10.1038/s41598-021-02706-0)
 
 ### Computational Biology (Statistical Genetics, Single-cell Genomics, etc.)
-* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *bioRxiv*. <br>
+* **Sun, J.**, Liang, C., Wei, R., Zheng, P., Yan, H., Bai, L., Zhang, K., Ouyang, W. and Ye, P.\* (2025). Scalable integration and prediction of unpaired single-cell and spatial multi-omics via regularized disentanglement. *PrePrint*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.25.689803) | [**Codes**](https://github.com/sjl-sjtu/scMRDR) | [**Package Document**](https://sjl-sjtu.github.io/scMRDR/)
 
-* **Sun, J.**, Stojanov, P., Zhang, K.\* (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *bioRxiv*. <br>
+* **Sun, J.**, Stojanov, P., Zhang, K.\* (2025). Single-cell disentangled representations for perturbation modeling and treatment effect estimation. *PrePrint*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.11.21.689783) | [**Codes**](https://github.com/sjl-sjtu/scDRP) | [**Package Document**](https://sjl-sjtu.github.io/scDRP/index.html)
 
 * **Sun, J.**, Liang, C., Wei, R., Zheng, P., Bai, L., Ouyang, W., Yan, H. & Ye, P.\* (2025). scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration. *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*. (**Spotlight**) <br>
@@ -49,16 +49,16 @@ Intervention: Additional Complexities in Causal Discovery. *The Thirteenth Inter
 [**Paper**](https://doi.org/10.1093/bib/bbab276) | [**R package**](https://github.com/sjl-sjtu/GESLM)
 
 ### Foundation Models in Biology
-* Ran Wei #, Ziyao Zhang #, **Jianle Sun #**, Yongkang Sun #, Juan Meng, Peng Zheng, Chaoqi Liang, Fanyi Meng, Wanli Ouyang, Lei Bai\*, Peng Ye\*, Yidi Sun\* (2025). scMOBA: A conversational single-cell Multi-Omics Brain Agent across species. *bioRxiv*. (co-first author)  <br>
-[**bioRxiv**](https://doi.org/10.64898/2025.12.01.691565)
+* Wei, R.#, Zhang, Z.#, **Sun, J.#**, Sun, Y.#, Ma, G., Zhang, J.# Meng, J., Zheng, P. Liang, C., Meng, F., Ouyang, W., Bai, L.\*, Ye, P\*, & Sun, Y.\*, scMOBA: A Conversational Single-Cell Multi-Omics Foundation Model for Brain Research. *PrePrint*. (co-first author)  <br>
+[**SSRN**](http://dx.doi.org/10.2139/ssrn.6438878) | [**bioRxiv**](https://doi.org/10.64898/2025.12.01.691565)
 
-* Liang, C.#, Ye, P.#, Yan, H.#, Zheng, P#, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W.\*, Bai, L.\*, Ouyang, W.\*, Li, J.\* (2025). scDNAm-GPT Captures Genome-wide CpG Dependencies in Single-cell DNA methylomes to Revolutionize Epigenetic Analysis. *bioRxiv*. <br>
+* Liang, C.#, Ye, P.#, Yan, H.#, Zheng, P#, **Sun, J.**, Wang, Y., Li, Y., Ren, Y., Jiang, Y., Xiang, J., Zhang, S., Jiang, L., Bai, W., Ma, X., Chen, T., Zuo, W.\*, Bai, L.\*, Ouyang, W.\*, Li, J.\* (2025). scDNAm-GPT Captures Genome-wide CpG Dependencies in Single-cell DNA methylomes to Revolutionize Epigenetic Analysis. *PrePrint*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2025.02.19.638959)
 
-* Ye, P.#, Bai, W.#, Ren, Y.#, Li, W.#, Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X.\*, Yan, H.\*, Wang, Z.\*, Wang, S.\* & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *bioRxiv*. <br>
+* Ye, P.#, Bai, W.#, Ren, Y.#, Li, W.#, Qiao, L., Liang, C., Wang, L., Cai, Y., **Sun, J.**, Yang, Z., Zheng, P., Dong, N., Chen, T., Wang, Z., Liu, X., Ma, X.\*, Yan, H.\*, Wang, Z.\*, Wang, S.\* & Ouyang, W. (2024). Genomics-FM: Universal Foundation Model for Versatile and Data-Efficient Functional Genomic Analysis. *PrePrint*. <br>
 [**bioRxiv**](https://doi.org/10.1101/2024.07.16.603653)
 
-*	Liang, C.#, Qiao, L.#, Ye, P.#, Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X.\*, Yan, H.\*, Song, C.\*, Ouyang, W.\*, & Zuo, W.\* (2023). Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *arXiv*. <br>
+*	Liang, C.#, Qiao, L.#, Ye, P.#, Dong, N., **Sun, J.**, Bai, W., Ren, Y., Ma, X.\*, Yan, H.\*, Song, C.\*, Ouyang, W.\*, & Zuo, W.\* (2023). Toward Understanding BERT-Like Pre-Training for DNA Foundation Models. *PrePrint*. <br>
 [**arXiv**](https://arxiv.org/abs/2310.07644)
 
 ### Epidemiology
