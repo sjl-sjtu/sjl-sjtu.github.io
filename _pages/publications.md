@@ -16,6 +16,9 @@ author_profile: true
 * **Sun, J.**, & Zhang, K. (2026). Nonparametric Identification and Inference for Counterfactual Distributions with Confounding. *PrePrint*. <br>
 [**arXiv**](https://doi.org/10.48550/arXiv.2602.15916)
 
+* Fan, S., Elhendawy, N., **Sun, J.**, Fang, K., Zhang, K., Wang, Y., & Cheng, L. (2026). MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. *PrePrint*. <br>
+[**arXiv**](https://doi.org/10.48550/arXiv.2605.05524)
+
 *	Dai, H., Ng, I., **Sun, J.**, Tang, Z, Luo, G., Dong, X., Spirtes, P.\*, Zhang, K.\* (2025) When Selection meets
 Intervention: Additional Complexities in Causal Discovery. *The Thirteenth International Conference on Learning Representations (ICLR)*. (**Oral**) <br>
 [**Paper**](https://doi.org/10.48550/arXiv.2503.07302)
